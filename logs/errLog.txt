@@ -1,0 +1,5 @@
+20241211	09:47:42	64257b6a-775d-4e78-9b3f-26bb1fe5c411	Error: Not allowed by CORS
+20241211	12:06:39	ef6627ed-8a73-4091-9cd6-231fd1bf5c35	Error: ENOENT: no such file or directory, stat 'E:\StarterForEvntNdWbSrvr\routes\views\index.html'
+20241211	16:53:20	580ed128-289b-498d-b7c0-8e655f0d548b	ReferenceError: id is not defined
+20241214	15:29:16	7a5c7a6e-7ad6-4161-b1b9-c283be7f72ce	Error: Cannot set headers after they are sent to the client
+20241214	15:31:52	eeb7b7b0-2c6e-4fda-a007-fd4241531a58	Error: Cannot set headers after they are sent to the client
